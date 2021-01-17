@@ -1,4 +1,4 @@
-<h1 align="center">BlueZec</h1> 
+<h1 align="center">Fluxerr</h1> 
 <img src="https://github.com/bluezec/BlueZec/blob/main/KaPJ.gif" width=70% height=auto>
 
 <h2 align="center">QUOTE</h2>
